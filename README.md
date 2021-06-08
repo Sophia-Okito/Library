@@ -34,27 +34,27 @@ ii. The right visibility modifiers should be used.
 
 iii. The following concepts/constructs should be used as much as possible
 
-  ● Encapsulation
+      ● Encapsulation
 
-  ● Inheritance
+      ● Inheritance
 
-  ● Polymorphism
+      ● Polymorphism
 
-  ● Interfaces/Abstract classes
+      ● Interfaces/Abstract classes
 
-  ● Single Responsibility for classes.
+      ● Single Responsibility for classes.
 
-  ● Abstraction
+      ● Abstraction
 
-  ● Aggregation
+      ● Aggregation
 
-  ● Composition
+      ● Composition
 
-  ● Generics
+      ● Generics
 
-  ● Collections
+      ● Collections
 
-  ● Exception Handling
+      ● Exception Handling
 
 iv. Use/Implement a PriorityQueue class where applicable.
 
